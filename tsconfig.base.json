@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@sandbox/lib-rollup": ["packages/lib-rollup/src/index.ts"],
       "@sandbox/lib-vite": ["packages/lib-vite/src/index.ts"]
     }
   },
